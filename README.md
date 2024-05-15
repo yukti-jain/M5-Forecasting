@@ -72,9 +72,5 @@ The project includes several Jupyter Notebooks and a presentation file:
    - This notebook focuses on building and training the LSTM model.
    - It includes data preparation for modeling, defining the LSTM architecture, training the model, and evaluating its performance using the WRMSSE metric.
 
-4. **ML Final Project Presentation - Yukti Sanjay Jain, Karan Karnik 1.pdf**:
-   - This presentation provides an overview of the project, including the problem statement, dataset description, preprocessing steps, EDA, feature engineering, modeling approach, results, and conclusions.
-   - It serves as a comprehensive summary of the project for presentation purposes.
-
 ## Thank You
 Thank you for your interest in the M5 Forecasting project. For further information or inquiries, please refer to the project documentation and the references listed above.
